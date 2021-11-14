@@ -20,3 +20,9 @@
 # to run test 
 
 `  python manage.py test`
+
+
+## pull request  
+
+  [link](https://github.com/ashrf288/django-snacks/pull/1)
+
