@@ -25,6 +25,7 @@
 
 
 
+
 ## steps:
 
 
@@ -113,3 +114,9 @@ template_name='name'
 model=imported model
 
 listView----> object_list
+
+## pull request  
+
+  [link](https://github.com/ashrf288/django-snacks/pull/1)
+
+
